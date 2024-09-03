@@ -1,0 +1,257 @@
+.container{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between; 
+}
+input{
+    margin-left: 10px;
+     width: 30%;
+     height: 7vh;
+    border-radius: 40px;
+    border: 1px solid #000;
+}
+.home1{
+    margin-left: 20px;
+    background-color: rgb(210, 205, 205);
+    width: 40px;
+    height: 40px;
+     border-radius: 180px;
+     position: relative;
+     align-content: center;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+.home4 :hover{
+    background-color:rgba(236, 232, 232, 0.835);
+    border-radius: 20px;
+}
+#btn1{
+    height: 40px;
+    width: 40px;
+    box-shadow: rgba(220, 220, 250, 0.2) 0px 7px 29px 0px;
+    border-radius: 180px;
+    position: relative;
+    align-content: center;
+    display: flex;
+    align-items: center;
+    right: 120px;
+    justify-content: center;
+}
+.th img {
+    width: 30px; 
+}
+#search{
+    border-radius: 0px 40px 40px 0px ;
+    background-color: rgb(243, 240, 240);
+   position: relative;
+   right: 70px;
+}
+#btn{
+    border-radius: 40px 0px 0px 40px;
+}
+i {
+    width: 40px;
+    margin-right: 10px;
+    margin-left: 8px; 
+}  
+img{
+   width: 120px;   
+}
+.head button{
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    margin-right: 50px;
+} 
+.head :hover{
+    background-color: rgb(220, 209, 209);
+}
+.hi img{
+    width: 50px;
+    margin-left: 180px;
+}
+.content ul {
+   display: flex;
+   margin-left: 40px;
+   list-style: none;
+   margin-top: 30px;
+   padding: 10px;
+}
+.he{
+    border:1px black solid;
+    width: 10px;
+    height:10px ;
+    border-radius: 8px;
+    padding: 9px;
+    background-color: #000;
+    color: aliceblue;
+    margin-top: -7px;
+    margin-left: 40px;
+}
+ul li a{
+    padding: 3px;
+    text-decoration: none;
+    border: solid 1px black;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+li a:hover {
+    border-radius: 10px;
+    background-color: rgb(229, 223, 223);
+}
+.hello{
+   margin: 10px;  
+   margin-top: 10px;
+   width: 35vh;
+   height: 100vh;
+   overflow-y: scroll;
+   overflow-x: hidden;
+}
+p{
+    font-size: 11px;
+    margin-left: 5px;
+    position: relative;  
+} main .hello{
+    position: relative;
+   margin-bottom: 20px; 
+}
+.none{
+    width: 150px;
+    position: relative;
+    border-bottom:solid 1px rgb(61, 61, 61);  
+}
+.non{
+    width: 150px;
+    position: relative;
+    border-bottom:solid 1px rgb(61, 61, 61);  
+}
+.none .hom1:hover{
+    background-color: rgb(229, 223, 223);
+    border-radius: 10px;
+}
+.non .hom1:hover{
+    background-color: rgb(229, 223, 223);
+    border-radius: 10px;
+}
+iframe{
+    width: 300px;
+    height:200px ;
+    margin-left: 40px;
+   
+}
+
+.container-video {
+    margin-left: 7%;
+    margin-top: -45%;
+}
+.picture{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    align-items: center;
+}
+
+h3{
+    font-size: 16px;
+    font-family: sans-serif;
+    margin-left: 40px;  
+}
+.picture1{
+    display: flex;
+    width: 80%;
+    margin: auto;
+   margin-bottom: 20px;
+}
+h4{
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-left: 40px; 
+}
+.hom1{
+    display: flex;
+    text-align: end;
+    width: 150px;
+    margin-right: 30px;
+}
+.hom1 i{
+    width: 10px;
+}
+.btm{
+    width: 100px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+.btm i{
+    margin-right: 10px;
+}
+.login{
+    width: 120px;
+    position: relative;
+    border-bottom:solid 1px rgb(61, 61, 61);  
+}
+.bb{
+    display: flex;
+    text-align: end;
+    width: 150px;
+    margin-right: 30px;
+}
+.spean{
+    width: 150px;
+    position: relative;
+    border-bottom:solid 1px rgb(61, 61, 61);  
+}
+.spean .bb:hover{
+    background-color: rgb(229, 223, 223);
+    border-radius: 10px;
+}
+.bb i{
+    width: 10px;
+}
+.bh img{
+    width: 40px;
+    height:40px ;
+}
+.bh{
+    display: flex;
+    text-align: end;
+    width: 150px;
+    margin-right: 30px;
+}
+.selection{
+    width: 150px;
+    position: relative;
+    border-bottom:solid 1px rgb(61, 61, 61);  
+}
+.selection .bh:hover{
+    background-color: rgb(229, 223, 223);
+    border-radius: 10px;
+}
+.hb {
+    display: flex;
+    text-align: end;
+    width: 150px;
+    margin-right: 30px;
+}
+.hb i{
+    width: 10px; 
+}
+.button{
+    width: 150px;
+    position: relative;
+    border-bottom:solid 1px rgb(61, 61, 61);  
+}
+.button .hb:hover{
+    background-color: rgb(229, 223, 223);
+    border-radius: 10px;
+}   
+
+
+
+
+
